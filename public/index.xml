@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Goetz Land Surveyed</title>
+    <title></title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Goetz Land Surveyed</description>
+    <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boundary Surveys</title>
+      <link>http://localhost:1313/boundary-survey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/boundary-survey/</guid>
+      <description>&lt;h2 id=&#34;boundary-survey-services&#34;&gt;Boundary Survey Services&lt;/h2&gt;&#xA;&lt;p&gt;Boundary surveys are performed to establish the precise location of property lines based on legal descriptions, recorded documents, and field evidence. These surveys provide clarity and legal defensibility when property boundaries are in question.&lt;/p&gt;&#xA;&lt;h3 id=&#34;when-boundary-surveys-are-needed&#34;&gt;When Boundary Surveys Are Needed&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Property purchase or sale&lt;/li&gt;&#xA;&lt;li&gt;Construction near lot lines&lt;/li&gt;&#xA;&lt;li&gt;Fence or wall installation&lt;/li&gt;&#xA;&lt;li&gt;Resolving boundary disputes&lt;/li&gt;&#xA;&lt;li&gt;Subdivision or lot line adjustments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;deliverables&#34;&gt;Deliverables&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Survey map suitable for record submission&lt;/li&gt;&#xA;&lt;li&gt;Clearly marked property corners (where applicable)&lt;/li&gt;&#xA;&lt;li&gt;Written explanation of boundary determinations&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
