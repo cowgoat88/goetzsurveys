@@ -1,4 +1,4 @@
-baseURL = "https://goetzsurveys.com"
+baseURL = "localhost"
 languageCode = "en-us"
 theme = "hugo-universal-theme"
 #SEO
@@ -42,19 +42,19 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Boundary Surveys"
-    url        = "/boundary"
+    url        = "/services/boundary"
     weight     = 1
     parent     = "menu.services"
 
 [[menu.main]]
     name       = "Topographic Mapping"
-    url        = "/topographic-mapping"
+    url        = "/services/topographic-mapping"
     weight     = 2
     parent     = "menu.services"
 
 [[menu.main]]
     name       = "Construction Staking"
-    url        = "/construction-staking"
+    url        = "/services/construction-staking"
     weight     = 3
     parent     = "menu.services"
 
