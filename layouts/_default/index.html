@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
+{{ with .Params.hero_image }}
+<section class="hero" style="background-image: url('{{ . }}');">
+{{ else }}
+<section class="hero">
+{{ end }}
+
+  <div class="hero-overlay">
+    <h1>{{ $.Title }}</h1>
+    {{ with $.Params.description }}
+      <p class="hero-subtitle">{{ . }}</p>
+    {{ end }}
+  </div>
+
+</section>
+
+  <body>
+
+    <div id="all">
+
+        {{ partial "top.html" . }}
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "carousel.html" . }}
+
+        {{ partial "features.html" . }}
+
+        {{ partial "testimonials.html" . }}
+
+        {{ partial "see_more.html" . }}
+
+        {{ partial "recent_posts.html" . }}
+
+        {{ partial "clients.html" . }}
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

@@ -2,6 +2,10 @@ title = "Goetz Land Surveyed"
 baseURL = "http://localhost/"
 languageCode = "en-us"
 theme = "hugo-universal-theme"
+hero_image = "/images/boundary-forest.jpg"
+hero_alt = "Surveying Boundary in the forest"
+
+
 #themesDir = "../.."
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
