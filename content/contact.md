@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "CONTACT"
 id: "contact"
 description: "Contact"
 type: "page"
