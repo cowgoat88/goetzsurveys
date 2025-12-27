@@ -10,10 +10,14 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/construction-staking/</loc>
+  </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/faq/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/topographic-mapping/</loc>
   </url>
 </urlset>
