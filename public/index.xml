@@ -16,16 +16,16 @@
     </item>
     <item>
       <title>Boundary Surveys</title>
-      <link>http://localhost:1313/services/boundary/</link>
+      <link>http://localhost:1313/boundary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/boundary/</guid>
-      <description>&lt;h2 id=&#34;boundary-survey-services&#34;&gt;Boundary Survey Services&lt;/h2&gt;&#xA;&lt;p&gt;Boundary surveys are performed to establish the precise location of property lines based on legal descriptions, recorded documents, and field evidence. These surveys provide clarity and legal defensibility when property boundaries are in question.&lt;/p&gt;&#xA;&lt;h3 id=&#34;when-boundary-surveys-are-needed&#34;&gt;When Boundary Surveys Are Needed&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Property purchase or sale&lt;/li&gt;&#xA;&lt;li&gt;Construction near lot lines&lt;/li&gt;&#xA;&lt;li&gt;Fence or wall installation&lt;/li&gt;&#xA;&lt;li&gt;Resolving boundary disputes&lt;/li&gt;&#xA;&lt;li&gt;Subdivision or lot line adjustments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;deliverables&#34;&gt;Deliverables&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Survey map suitable for record submission&lt;/li&gt;&#xA;&lt;li&gt;Clearly marked property corners (where applicable)&lt;/li&gt;&#xA;&lt;li&gt;Written explanation of boundary determinations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;boundary-monument.jpg&#34; alt=&#34;Land surveying monument&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/boundary/</guid>
+      <description>&lt;h2 id=&#34;boundary-survey-services&#34;&gt;Boundary Survey Services&lt;/h2&gt;&#xA;&lt;p&gt;Boundary surveys are performed to establish the precise location of property lines based on legal descriptions, recorded documents, and field evidence. These surveys provide clarity and legal defensibility when property boundaries are in question.&lt;/p&gt;&#xA;&lt;h3 id=&#34;when-boundary-surveys-are-needed&#34;&gt;When Boundary Surveys Are Needed&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Property purchase or sale&lt;/li&gt;&#xA;&lt;li&gt;Construction near lot lines&lt;/li&gt;&#xA;&lt;li&gt;Fence or wall installation&lt;/li&gt;&#xA;&lt;li&gt;Resolving boundary disputes&lt;/li&gt;&#xA;&lt;li&gt;Subdivision or lot line adjustments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;deliverables&#34;&gt;Deliverables&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Survey map suitable for record submission&lt;/li&gt;&#xA;&lt;li&gt;Clearly marked property corners (where applicable)&lt;/li&gt;&#xA;&lt;li&gt;Written explanation of boundary determinations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/boundary-monument.jpg&#34; alt=&#34;land survey monument&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Construction Staking</title>
-      <link>http://localhost:1313/services/construction-staking/</link>
+      <link>http://localhost:1313/construction-staking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/construction-staking/</guid>
+      <guid>http://localhost:1313/construction-staking/</guid>
       <description>&lt;h2 id=&#34;construction-staking-services&#34;&gt;Construction Staking Services&lt;/h2&gt;&#xA;&lt;p&gt;Construction staking involves transferring design plans from drawings to the field to ensure improvements are built in the correct location, elevation, and alignment. Accurate staking reduces costly errors and supports project efficiency.&lt;/p&gt;&#xA;&lt;h3 id=&#34;typical-services&#34;&gt;Typical Services&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Building layout and offsets&lt;/li&gt;&#xA;&lt;li&gt;Foundation and footing staking&lt;/li&gt;&#xA;&lt;li&gt;Grading and curb staking&lt;/li&gt;&#xA;&lt;li&gt;Utility alignment and elevation staking&lt;/li&gt;&#xA;&lt;li&gt;As-built data collection&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;benefits&#34;&gt;Benefits&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Improves construction accuracy&lt;/li&gt;&#xA;&lt;li&gt;Reduces rework and delays&lt;/li&gt;&#xA;&lt;li&gt;Provides clear field reference points&lt;/li&gt;&#xA;&lt;li&gt;Supports quality control and verification&#xA;&lt;img src=&#34;http://localhost:1313/images/construction-excavator.jpg&#34; alt=&#34;heavy equipment moving earth&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
@@ -33,21 +33,28 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;h1 id=&#34;we-are-here-to-help&#34;&gt;We are here to help&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;we-are-here-to-help&#34;&gt;We are here to help&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/trimbles.jpg&#34; alt=&#34;surveying equipment&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>FAQ</title>
       <link>http://localhost:1313/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/faq/</guid>
-      <description>&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-is-that-a-camera&#34;&gt;1. IS THAT A CAMERA?&lt;/h2&gt;&#xA;&lt;p&gt;While some total stations do have the capability to take pictures, I assure you, no. No it&amp;rsquo;s not a camera and it is not taking pictures of you. We&amp;rsquo;re much to busy working to bother with that sort of thing. The total station is the foundation of surveying. Preceeded by theodolites and chains, in today&amp;rsquo;s modern world a robotic total station does the work of what would have taken a whole crew. It uses a laser to measure distances, and fancy technology inside to measure angles. Distance, angles, and known points allow a surveyor determine the position of things relative to other things.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;1-is-that-a-camera&#34;&gt;1. IS THAT A CAMERA?&lt;/h2&gt;&#xA;&lt;p&gt;While some modern total stations include imaging capabilities, they are not cameras and are not used to photograph people. Their purpose is precise measurement, not observation.&lt;/p&gt;&#xA;&lt;p&gt;The total station is the foundational instrument of modern land surveying. Building on earlier tools lsuch as chains and theodolites, today’s robotic total stations use laser technology to measure distances and angles with extreme precision—down to seconds of arc. There are 1,296,000 arcseconds in a full circle.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>http://localhost:1313/faq2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq2/</guid>
+      <description>&lt;h2 id=&#34;frequently-asked-questions&#34;&gt;Frequently Asked Questions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;q-does-a-total-station-take-pictures-of-people&#34;&gt;Q: Does a total station take pictures of people?&lt;/h3&gt;&#xA;&lt;p&gt;A: Modern total stations may have imaging features, but they are not cameras for personal use. Their purpose is precise measurement. Total stations use lasers to measure distances and angles with extreme accuracy—down to seconds of arc (there are 1,296,000 arcseconds in a full circle). By referencing known control points, surveyors can determine the relative positions of features with confidence.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Topographic Surveys</title>
-      <link>http://localhost:1313/services/topographic-mapping/</link>
+      <link>http://localhost:1313/topographic-mapping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/topographic-mapping/</guid>
-      <description>&lt;h2 id=&#34;topographic-survey-services&#34;&gt;Topographic Survey Services&lt;/h2&gt;&#xA;&lt;p&gt;Topographic surveys capture elevations, contours, and visible features of a property. They are essential for civil engineering design, grading, drainage planning, and development projects.&lt;/p&gt;&#xA;&lt;h3 id=&#34;typical-features-included&#34;&gt;Typical Features Included&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ground elevations and contour lines&lt;/li&gt;&#xA;&lt;li&gt;Buildings, pavement, and structures&lt;/li&gt;&#xA;&lt;li&gt;Utilities and visible improvements&lt;/li&gt;&#xA;&lt;li&gt;Drainage features and flow lines&lt;/li&gt;&#xA;&lt;li&gt;Trees and significant vegetation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;common-uses&#34;&gt;Common Uses&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Civil engineering and site design&lt;/li&gt;&#xA;&lt;li&gt;Architectural planning&lt;/li&gt;&#xA;&lt;li&gt;Grading and drainage design&lt;/li&gt;&#xA;&lt;li&gt;Permit submittals&lt;/li&gt;&#xA;&lt;li&gt;Land development and redevelopment&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/topographic-mapping/</guid>
+      <description>&lt;h2 id=&#34;topographic-survey-services&#34;&gt;Topographic Survey Services&lt;/h2&gt;&#xA;&lt;p&gt;Topographic surveys capture elevations, contours, and visible features of a property. They are essential for civil engineering design, grading, drainage planning, and development projects.&lt;/p&gt;&#xA;&lt;h3 id=&#34;typical-features-included&#34;&gt;Typical Features Included&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ground elevations and contour lines&lt;/li&gt;&#xA;&lt;li&gt;Buildings, pavement, and structures&lt;/li&gt;&#xA;&lt;li&gt;Utilities and visible improvements&lt;/li&gt;&#xA;&lt;li&gt;Drainage features and flow lines&lt;/li&gt;&#xA;&lt;li&gt;Trees and significant vegetation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;common-uses&#34;&gt;Common Uses&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Civil engineering and site design&lt;/li&gt;&#xA;&lt;li&gt;Architectural planning&lt;/li&gt;&#xA;&lt;li&gt;Grading and drainage design&lt;/li&gt;&#xA;&lt;li&gt;Permit submittals&lt;/li&gt;&#xA;&lt;li&gt;Land development and redevelopment&#xA;&lt;img src=&#34;http://localhost:1313/images/SC-map.jpg&#34; alt=&#34;old map of santa cruz&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

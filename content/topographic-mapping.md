@@ -23,3 +23,4 @@ Topographic surveys capture elevations, contours, and visible features of a prop
 - Grading and drainage design
 - Permit submittals
 - Land development and redevelopment
+![old map of santa cruz](/images/SC-map.jpg)

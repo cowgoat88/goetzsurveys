@@ -8,7 +8,6 @@ type: "page"
 ## Boundary Survey Services
 
 Boundary surveys are performed to establish the precise location of property lines based on legal descriptions, recorded documents, and field evidence. These surveys provide clarity and legal defensibility when property boundaries are in question.
-
 ### When Boundary Surveys Are Needed
 
 - Property purchase or sale
@@ -23,4 +22,8 @@ Boundary surveys are performed to establish the precise location of property lin
 - Clearly marked property corners (where applicable)
 - Written explanation of boundary determinations
 
-![Land surveying monument](boundary-monument.jpg)
+![land survey monument](/images/boundary-monument.jpg)
+
+^ This is a boundary monument. A 1-1/2" iron pipe with a brass tag. That tag has the license number of the surveyor (or pre 82' RCE) that set the point.
+
+ 

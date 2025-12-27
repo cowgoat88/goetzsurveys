@@ -42,7 +42,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Boundary Surveys"
-    url        = "/boundary-survey"
+    url        = "/boundary"
     weight     = 1
     parent     = "menu.services"
 

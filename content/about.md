@@ -16,7 +16,7 @@ With over 7 years of surveying experience, Kyle has a proven record of deliverin
 
 ### Our Approach
 
-Every project is handled with meticulous attention to detail and a commitment to clear communication. From preliminary research to field measurements and final deliverables, we will ensure that every client receives high-quality, precise results.
+Every project is handled with meticulous attention to detail and a commitment to clear communication. From preliminary research to field measurements and final deliverables, we will ensure that every client receives high-quality, precise results. 
 
 ### Why Choose Us
 
@@ -24,5 +24,5 @@ Every project is handled with meticulous attention to detail and a commitment to
 - **Reliable and Efficient:** Timely delivery of survey results to support project schedules and decision-making.  
 - **Trustworthy Documentation:** Reports and maps that meet industry standards and stand up to scrutiny.
 
-Goetz Surveys combines technical skill with practical field experience to provide surveying solutions that clients can rely on. Whether planning a new development, verifying property lines, or supporting construction projects, the company is committed to helping clients achieve success through precise and dependable surveying services.
+Goetz Surveys combines technical skill with practical field experience to provide surveying solutions that clients can rely on. Whether planning a new development, verifying property lines, or supporting construction projects, the company is committed to helping clients achieve success through precise and dependable surveying services. 
 
