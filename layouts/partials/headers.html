@@ -13,6 +13,9 @@
 {{ end }}
 {{ $description_plain := default .Site.Params.defaultDescription .Description | markdownify | plainify }}
 <meta name="description" content="{{ $description_plain }}">
+<!-- SEO STUFF -->
+{{ partial "schema-local.html" . }}
+<link rel="canonical" href="{{ .Permalink }}">
 
 {{ hugo.Generator }}
 

@@ -1,8 +1,8 @@
 ---
-
 title: "Boundary Surveys"
 description: "Professional boundary survey services to establish property lines, identify encroachments, and support real estate transactions."
-keywords: ["boundary survey", "property line survey", "land surveyor", "boundary determination"]
+keywords: ["boundary survey", "property line survey", "land surveyor", "boundary determination","land surveying", "professional surveyor"]
+type: "page"
 ---
 
 ## Boundary Survey Services
@@ -22,3 +22,5 @@ Boundary surveys are performed to establish the precise location of property lin
 - Survey map suitable for record submission
 - Clearly marked property corners (where applicable)
 - Written explanation of boundary determinations
+
+![Land surveying monument](boundary-monument.jpg)

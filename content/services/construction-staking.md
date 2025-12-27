@@ -1,7 +1,7 @@
 ---
 title: "Construction Staking"
 description: "Construction staking services to accurately transfer design plans to the field and support successful project execution."
-keywords: ["construction staking", "construction layout", "site staking", "survey construction"]
+keywords: ["land surveying",  "topographic survey", "construction staking", "professional surveyor", "construction layout", "site staking", "survey construction"]
 ---
 
 ## Construction Staking Services
@@ -22,3 +22,4 @@ Construction staking involves transferring design plans from drawings to the fie
 - Reduces rework and delays
 - Provides clear field reference points
 - Supports quality control and verification
+![heavy equipment moving earth](/images/construction-excavator.jpg)

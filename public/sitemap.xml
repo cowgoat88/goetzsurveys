@@ -4,20 +4,24 @@
   <url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
     <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>http://localhost:1313/boundary-survey/</loc>
+    <loc>http://localhost:1313/services/boundary/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/construction-staking/</loc>
+    <loc>http://localhost:1313/services/construction-staking/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/faq/</loc>
   </url><url>
+    <loc>http://localhost:1313/services/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/topographic-mapping/</loc>
+    <loc>http://localhost:1313/services/topographic-mapping/</loc>
   </url>
 </urlset>
