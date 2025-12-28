@@ -128,3 +128,22 @@ section:hover {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 2rem;
 }
+
+
+
+.navbar-brand img {
+  max-height: 75px;
+}
+
+.navbar-header:before,
+.navbar-header:after {
+  height: 25px;
+}
+
+.navbar .navbar-buttons button,
+.navbar .navbar-buttons a.btn,
+.navbar .navbar-buttons .btn-default.navbar-toggle {
+  width: 50px;
+  height: 40px;
+  margin-right: 20px;
+}

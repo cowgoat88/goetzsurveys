@@ -2933,7 +2933,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .navbar-brand {
   float: left;
-  padding: 10px 15px;
+  padding: 200px 200px;
   font-size: 18px;
   line-height: 20px;
   height: 62px;
@@ -2943,7 +2943,7 @@ fieldset[disabled] .btn-template-primary.active {
   text-decoration: none;
 }
 .navbar-brand img {
-  max-height: 42px;
+  max-height: 100px;
 }
 @media (min-width: 768px) {
   .navbar > .container .navbar-brand,
