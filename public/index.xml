@@ -1,53 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title></title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on </description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Us</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;about-goetz-surveys&#34;&gt;About Goetz Surveys&lt;/h2&gt;&#xA;&lt;p&gt;The team at Goetz Surveys is a professional land surveying company dedicated to delivering accurate, reliable, and defensible survey services. The team has successfully completed a wide variety of projects, including boundary determinations, topographic mapping, and construction staking for both residential and commercial developments. We learn from every job we do and strive to do better every day.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/bpac.jpg&#34; alt=&#34;Goetz Surveys team in the field&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;kyle-goetz-pls-10078&#34;&gt;Kyle Goetz, PLS 10078&lt;/h3&gt;&#xA;&lt;p&gt;With almost a decade of surveying experience, Kyle has a proven record of delivering a high quality results for whatever job he is handling. From assisting with backyard remodels, to hiking up mountains and finding 100 year old boundary monuments, to guiding construction crews building bridges, Kyle is passionate about everything surveying.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Boundary Surveys</title>
-      <link>//localhost:1313/services/boundary/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/services/boundary/</guid>
-      <description>&lt;h2 id=&#34;boundary-survey-services&#34;&gt;Boundary Survey Services&lt;/h2&gt;&#xA;&lt;p&gt;Boundary surveys are performed to establish the precise location of property lines based on legal descriptions, recorded documents, and field evidence. These surveys provide clarity and legal defensibility when property boundaries are in question.&lt;/p&gt;&#xA;&lt;h3 id=&#34;when-boundary-surveys-are-needed&#34;&gt;When Boundary Surveys Are Needed&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Property purchase or sale&lt;/li&gt;&#xA;&lt;li&gt;Construction near lot lines&lt;/li&gt;&#xA;&lt;li&gt;Fence or wall installation&lt;/li&gt;&#xA;&lt;li&gt;Resolving boundary disputes&lt;/li&gt;&#xA;&lt;li&gt;Subdivision or lot line adjustments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;deliverables&#34;&gt;Deliverables&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Survey map suitable for record submission&lt;/li&gt;&#xA;&lt;li&gt;Clearly marked property corners (where applicable)&lt;/li&gt;&#xA;&lt;li&gt;Written explanation of boundary determinations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;boundary-monument.jpg&#34; alt=&#34;land survey monument&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Construction Staking</title>
-      <link>//localhost:1313/services/construction-staking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/services/construction-staking/</guid>
-      <description>&lt;h2 id=&#34;construction-staking-services&#34;&gt;Construction Staking Services&lt;/h2&gt;&#xA;&lt;p&gt;Construction staking involves transferring design plans from drawings to the field to ensure improvements are built in the correct location, elevation, and alignment. Accurate staking reduces costly errors and supports project efficiency.&lt;/p&gt;&#xA;&lt;h3 id=&#34;typical-services&#34;&gt;Typical Services&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Building layout and offsets&lt;/li&gt;&#xA;&lt;li&gt;Foundation and footing staking&lt;/li&gt;&#xA;&lt;li&gt;Grading and curb staking&lt;/li&gt;&#xA;&lt;li&gt;Utility alignment and elevation staking&lt;/li&gt;&#xA;&lt;li&gt;As-built data collection&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;benefits&#34;&gt;Benefits&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Improves construction accuracy&lt;/li&gt;&#xA;&lt;li&gt;Reduces rework and delays&lt;/li&gt;&#xA;&lt;li&gt;Provides clear field reference points&lt;/li&gt;&#xA;&lt;li&gt;Supports quality control and verification&#xA;&lt;img src=&#34;construction-excavator.jpg&#34; alt=&#34;heavy equipment moving earth&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>CONTACT</title>
-      <link>//localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/contact/</guid>
-      <description>&lt;h1 id=&#34;we-are-here-to-help&#34;&gt;We are here to help&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/trimbles.jpg&#34; alt=&#34;surveying equipment&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FAQ</title>
-      <link>//localhost:1313/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/faq/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/5600-cutaway.png&#34; alt=&#34;cutaway of a total station&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-is-that-a-camera&#34;&gt;1. IS THAT A CAMERA?&lt;/h2&gt;&#xA;&lt;p&gt;While some modern total stations include imaging capabilities, they are not cameras and are not used to photograph people. Their purpose is precise measurement, not observation.&lt;/p&gt;&#xA;&lt;p&gt;The total station is the foundation of modern land surveying. Building on earlier tools such as chains and theodolites, today’s robotic total stations use laser technology to measure distances and angles with extreme precision—down to seconds of arc. For reference, there are 1,296,000 arcseconds in one full circle.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Topographic Surveys</title>
-      <link>//localhost:1313/services/topographic-mapping/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/services/topographic-mapping/</guid>
-      <description>&lt;h2 id=&#34;topographic-survey-services&#34;&gt;Topographic Survey Services&lt;/h2&gt;&#xA;&lt;p&gt;Topographic surveys capture elevations, contours, and visible features of a property. They are essential for civil engineering design, grading, drainage planning, and development projects.&lt;/p&gt;&#xA;&lt;h3 id=&#34;typical-features-included&#34;&gt;Typical Features Included&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ground elevations and contour lines&lt;/li&gt;&#xA;&lt;li&gt;Buildings, pavement, and structures&lt;/li&gt;&#xA;&lt;li&gt;Utilities and visible improvements&lt;/li&gt;&#xA;&lt;li&gt;Drainage features and flow lines&lt;/li&gt;&#xA;&lt;li&gt;Trees and significant vegetation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;common-uses&#34;&gt;Common Uses&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Civil engineering and site design&lt;/li&gt;&#xA;&lt;li&gt;Architectural planning&lt;/li&gt;&#xA;&lt;li&gt;Grading and drainage design&lt;/li&gt;&#xA;&lt;li&gt;Permit submittals&lt;/li&gt;&#xA;&lt;li&gt;Land development and redevelopment&#xA;&lt;img src=&#34;SC-map.jpg&#34; alt=&#34;old map of santa cruz&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>/</link><description>Recent content on</description><generator>Hugo</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About Us</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;h2 id="about-goetz-surveys"&gt;About Goetz Surveys&lt;/h2&gt;
+&lt;p&gt;The team at Goetz Surveys is a professional land surveying company dedicated to delivering accurate, reliable, and defensible survey services. The team has successfully completed a wide variety of projects, including boundary determinations, topographic mapping, and construction staking for both residential and commercial developments. We learn from every job we do and strive to do better every day.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/bpac.jpg" alt="Goetz Surveys team in the field"&gt;&lt;/p&gt;
+&lt;h3 id="kyle-goetz-pls-10078"&gt;Kyle Goetz, PLS 10078&lt;/h3&gt;
+&lt;p&gt;With almost a decade of surveying experience, Kyle has a proven record of delivering a high quality results for whatever job he is handling. From assisting with backyard remodels, to hiking up mountains and finding 100 year old boundary monuments, to guiding construction crews building bridges, Kyle is passionate about everything surveying.&lt;/p&gt;</description></item><item><title>Boundary Surveys</title><link>/services/boundary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/boundary/</guid><description>&lt;h2 id="boundary-survey-services"&gt;Boundary Survey Services&lt;/h2&gt;
+&lt;p&gt;Boundary surveys are performed to establish the precise location of property lines based on legal descriptions, recorded documents, and field evidence. These surveys provide clarity and legal defensibility when property boundaries are in question.&lt;/p&gt;
+&lt;h3 id="when-boundary-surveys-are-needed"&gt;When Boundary Surveys Are Needed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Property purchase or sale&lt;/li&gt;
+&lt;li&gt;Construction near lot lines&lt;/li&gt;
+&lt;li&gt;Fence or wall installation&lt;/li&gt;
+&lt;li&gt;Resolving boundary disputes&lt;/li&gt;
+&lt;li&gt;Subdivision or lot line adjustments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="deliverables"&gt;Deliverables&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Survey map suitable for record submission&lt;/li&gt;
+&lt;li&gt;Clearly marked property corners (where applicable)&lt;/li&gt;
+&lt;li&gt;Written explanation of boundary determinations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="boundary-monument.jpg" alt="land survey monument"&gt;&lt;/p&gt;</description></item><item><title>Construction Staking</title><link>/services/construction-staking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/construction-staking/</guid><description>&lt;h2 id="construction-staking-services"&gt;Construction Staking Services&lt;/h2&gt;
+&lt;p&gt;Construction staking involves transferring design plans from drawings to the field to ensure improvements are built in the correct location, elevation, and alignment. Accurate staking reduces costly errors and supports project efficiency.&lt;/p&gt;
+&lt;h3 id="typical-services"&gt;Typical Services&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Building layout and offsets&lt;/li&gt;
+&lt;li&gt;Foundation and footing staking&lt;/li&gt;
+&lt;li&gt;Grading and curb staking&lt;/li&gt;
+&lt;li&gt;Utility alignment and elevation staking&lt;/li&gt;
+&lt;li&gt;As-built data collection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="benefits"&gt;Benefits&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improves construction accuracy&lt;/li&gt;
+&lt;li&gt;Reduces rework and delays&lt;/li&gt;
+&lt;li&gt;Provides clear field reference points&lt;/li&gt;
+&lt;li&gt;Supports quality control and verification
+&lt;img src="construction-excavator.jpg" alt="heavy equipment moving earth"&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>CONTACT</title><link>/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/contact/</guid><description>&lt;h1 id="we-are-here-to-help"&gt;We are here to help&lt;/h1&gt;
+&lt;p&gt;&lt;img src="/images/trimbles.jpg" alt="surveying equipment"&gt;&lt;/p&gt;</description></item><item><title>FAQ</title><link>/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/</guid><description>&lt;p&gt;&lt;img src="/images/5600-cutaway.png" alt="cutaway of a total station"&gt;&lt;/p&gt;
+&lt;h2 id="1-is-that-a-camera"&gt;1. IS THAT A CAMERA?&lt;/h2&gt;
+&lt;p&gt;While some modern total stations include imaging capabilities, they are not cameras and are not used to photograph people. Their purpose is precise measurement, not observation.&lt;/p&gt;
+&lt;p&gt;The total station is the foundation of modern land surveying. Building on earlier tools such as chains and theodolites, today’s robotic total stations use laser technology to measure distances and angles with extreme precision—down to seconds of arc. For reference, there are 1,296,000 arcseconds in one full circle.&lt;/p&gt;</description></item><item><title>Topographic Surveys</title><link>/services/topographic-mapping/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/services/topographic-mapping/</guid><description>&lt;h2 id="topographic-survey-services"&gt;Topographic Survey Services&lt;/h2&gt;
+&lt;p&gt;Topographic surveys capture elevations, contours, and visible features of a property. They are essential for civil engineering design, grading, drainage planning, and development projects.&lt;/p&gt;
+&lt;h3 id="typical-features-included"&gt;Typical Features Included&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ground elevations and contour lines&lt;/li&gt;
+&lt;li&gt;Buildings, pavement, and structures&lt;/li&gt;
+&lt;li&gt;Utilities and visible improvements&lt;/li&gt;
+&lt;li&gt;Drainage features and flow lines&lt;/li&gt;
+&lt;li&gt;Trees and significant vegetation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="common-uses"&gt;Common Uses&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Civil engineering and site design&lt;/li&gt;
+&lt;li&gt;Architectural planning&lt;/li&gt;
+&lt;li&gt;Grading and drainage design&lt;/li&gt;
+&lt;li&gt;Permit submittals&lt;/li&gt;
+&lt;li&gt;Land development and redevelopment
+&lt;img src="SC-map.jpg" alt="old map of santa cruz"&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
