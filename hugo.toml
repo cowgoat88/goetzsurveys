@@ -1,4 +1,5 @@
-baseURL = "lhttps://www.goetzsurveys.com"
+#baseURL = "https://www.goetzsurveys.com"
+baseURL = "localhost"
 languageCode = "en-us"
 theme = "hugo-universal-theme"
 #SEO

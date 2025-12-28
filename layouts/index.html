@@ -5,20 +5,6 @@
     {{ partial "headers.html" . }}
     {{ partial "custom_headers.html" . }}
   </head>
-{{ with .Params.hero_image }}
-<section class="hero" style="background-image: url('{{ . }}');">
-{{ else }}
-<section class="hero">
-{{ end }}
-
-  <div class="hero-overlay">
-    <h1>{{ $.Title }}</h1>
-    {{ with $.Params.description }}
-      <p class="hero-subtitle">{{ . }}</p>
-    {{ end }}
-  </div>
-
-</section>
 
   <body>
 

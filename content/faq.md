@@ -4,7 +4,7 @@ description: "Frequently asked questions for land surveyors"
 type: "page"
 keywords: ["boundary survey", "property line survey", "land surveyor", "boundary determination","land surveying",  "topographic survey", "construction staking", "professional surveyor", "construction layout", "site staking", "survey construction", "topo survey", "elevation survey", "site mapping"]
 ---
-
+![cutaway of a total station](/images/5600-cutaway.png)
 ## 1. IS THAT A CAMERA? 
 
 While some modern total stations include imaging capabilities, they are not cameras and are not used to photograph people. Their purpose is precise measurement, not observation.

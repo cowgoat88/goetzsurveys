@@ -12,7 +12,7 @@ The team at Goetz Surveys is a professional land surveying company dedicated to 
 
 ### Kyle Goetz, PLS 10078
 
-With over 7 years of surveying experience, Kyle has a proven record of delivering a high quality results for whatever job he is handling. From assisting with backyard remodels, to hiking up mountains and finding 100 year old monuments, to guiding construction crews building bridges, Kyle is passionate about everything surveying. 
+With almost a decade of surveying experience, Kyle has a proven record of delivering a high quality results for whatever job he is handling. From assisting with backyard remodels, to hiking up mountains and finding 100 year old boundary monuments, to guiding construction crews building bridges, Kyle is passionate about everything surveying. 
 
 ### Our Approach
 
