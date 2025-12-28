@@ -9,7 +9,7 @@ keywords: ["boundary survey", "property line survey", "land surveyor", "boundary
 
 While some modern total stations include imaging capabilities, they are not cameras and are not used to photograph people. Their purpose is precise measurement, not observation.
 
-The total station is the foundational instrument of modern land surveying. Building on earlier tools lsuch as chains and theodolites, today’s robotic total stations use laser technology to measure distances and angles with extreme precision—down to seconds of arc. For reference, there are 1,296,000 arcseconds in one full circle.
+The total station is the foundation of modern land surveying. Building on earlier tools such as chains and theodolites, today’s robotic total stations use laser technology to measure distances and angles with extreme precision—down to seconds of arc. For reference, there are 1,296,000 arcseconds in one full circle.
 
 By combining measured distances and angles referenced to known control points, total stations allow surveyors to accurately determine the position of features relative to one another, forming the basis of reliable spatial data.
 
