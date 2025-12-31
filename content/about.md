@@ -6,13 +6,13 @@ keywords: ["boundary survey", "property line survey", "land surveyor", "boundary
 
 ## About Goetz Surveys
 
-The team at Goetz Surveys is a professional land surveying company dedicated to delivering accurate, reliable, and defensible survey services. The team has successfully completed a wide variety of projects, including boundary determinations, topographic mapping, and construction staking for both residential and commercial developments. We learn from every job we do and strive to do better every day.
+Our team at Goetz Surveys is a professional land surveying company dedicated to delivering accurate, reliable, and defensible survey services. The team has successfully completed a wide variety of projects, including boundary determinations, topographic mapping, and construction staking for both residential and commercial developments.
 
 ![Goetz Surveys team in the field](/images/bpac.jpg)
 
 ### Kyle Goetz, PLS 10078
 
-With almost a decade of surveying experience, Kyle has a proven record of delivering a high quality results for whatever job he is handling. From assisting with backyard remodels, to hiking up mountains and finding 100 year old boundary monuments, to guiding construction crews building bridges, Kyle is passionate about everything surveying. 
+With almost a decade of surveying experience, Kyle has a proven record of delivering a high quality results for whatever job he is handling. From assisting with backyard remodels, to hiking up mountains and finding 100 year old boundary monuments, to guiding construction crews building bridges, Kyle is passionate about all things surveying. 
 
 ### Our Approach
 
