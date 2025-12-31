@@ -7,4 +7,4 @@ keywords: ["boundary survey", "property line survey", "land surveyor", "boundary
 ---
 
 # We are here to help 
-![surveying equipment](/images/trimbles.jpg)
+![surveying equipment](/trimbles.jpg)
