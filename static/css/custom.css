@@ -92,6 +92,7 @@ section:hover {
   letter-spacing: 0.12em;
   max-width: 80vw;
   opacity: 1;
+  text-align: center;
 }
 
 /* END */
