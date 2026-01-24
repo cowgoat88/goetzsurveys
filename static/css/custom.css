@@ -1,5 +1,46 @@
-/* your styles go here */
-/* Example site test */
+/* DEFAULT THEME COLORS */ 
+:root {
+  --primary-accent: #38a7bb;
+  --navbar-border-top: #20616d;
+  --button-border: #2a7d8c;
+  --link-focus: #267280;
+  --form-shadow: rgba(56, 167, 187, 0.6);
+  --pagination-bg: #a7dbe5;
+  --link-hover-bg: #2c8494;
+  --navbar-focus: #80cbd9;
+
+}
+
+/* BRUTALLLLIST */
+
+body {
+  color: #111;
+  background: #fff;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+  /*font-family: 'Roboto Mono', 'Courier New', monospace;
+  */
+}
+h1 {
+  font-family: 'Roboto Mono', 'Courier New', monospace;
+}
+
+section {
+  border: 2px solid #111;
+  padding: 2rem;
+  margin: 2rem 0;
+  background: #f5f5f5;
+}
+
+section:hover {
+  border-color: #000000;
+}
+
+/* END */
 
 .box-image-text .image {
     min-height: 190px;
@@ -16,7 +57,79 @@
 }
 
 
+/* PAGES "BREADCRUMBS" HEADING IMAGE FONT */
+
+.breadcrumb-section {
+  position: relative;
+}
+
+.breadcrumb-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('/images/boundary-forest.jpg');
+  background-size: cover;
+  background-position: center;
+  opacity: .25; /* Adjust transparency (0 = fully transparent, 1 = fully opaque) */
+  z-index:1; /* Ensures the background stays behind content */
+}
+
+.breadcrumb-text {
+  line-height: .75;
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text;
+ -webkit-text-stroke-width: 4.5px;
+-webkit-text-stroke-color: #111; 
+}
+#heading-breadcrumbs h1 {
+  color: #333333;
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  max-width: 80vw;
+  opacity: 1;
+}
+
+/* END */
+
+/* TEXT CENTERING ON PAGE */
+.partial-contact h2 {
+  text-align: center;
+}
+
+/* IMAGE CENTERING */
+
+img[src$='#center']
+{
+    display: block;
+    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                            whatever floats your boat, but keep the
+                            horizontal 'auto' for this to work */
+    /* whatever else styles you fancy here */
+    
+}
+img[src$='#floatleft']
+{
+    float:left;
+    margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#floatright']
+{
+    float:right;
+    margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+}
+
+/* END */
+
 /* CAROUSEL BACKGROUND */
+
 .home-carousel {
   background-image: url("/images/boundary-forest.jpg");
   background-size: cover;
@@ -25,10 +138,13 @@
 }
 
 .home-carousel .dark-mask {
-  background: rgba(0, 0, 0, .75);
+  background: #111111;
 }
 
+/* END */
+
 /* CALL TO ACTION */
+
 .cta-section {
   background: #1f2a36;
   color: #ffffff;
@@ -54,60 +170,29 @@
 
 .cta-button {
   display: inline-block;
-  background: #f5b700;
-  color: #1f2a36;
-  padding: 0.75rem 1.75rem;
   font-size: 3rem;
   font-weight: 600;
+  font-weight: bold;
   text-decoration: none;
+  background: #111;
+  color: #fff;
+  padding: 1rem 2rem;
+  text-transform: uppercase;
+  border: 3px solid var(--button-border);
   border-radius: 4px;
 }
 
 .cta-button:hover {
-  background: #e0a800;
-}
-/* center */
-
-/* BRUTALLLLIST */
-
-body {
+  background: var(--primary-accent);
   color: #111;
-  background: #fff;
+  text-decoration: none;
 }
 
-h1, h2, h3, h4 {
-  font-weight: 700;
-  text-transform: uppercase;
-  margin-bottom: 1rem;
-  font-family: 'Roboto Mono', 'Courier New', monospace;
-  
-}
+/* END */
 
-section {
-  border: 2px solid #111;
-  padding: 2rem;
-  margin: 2rem 0;
-  background: #f5f5f5;
-}
 
-section:hover {
-  border-color: #f5b700;
-}
 
-.cta-button {
-  background: #111;
-  color: #fff;
-  padding: 1rem 2rem;
-  font-weight: bold;
-  text-transform: uppercase;
-  border: 3px solid #f5b700;
-  display: inline-block;
-}
-
-.cta-button:hover {
-  background: #f5b700;
-  color: #111;
-}
+/* NAV BAR */
 
 .navbar a {
   padding: 0.75rem 1.5rem;
@@ -118,17 +203,8 @@ section:hover {
 
 .navbar a:hover {
   background: #111;
-  color: #f5b700;
+  color: var(--primary-accent);
 }
-
-
-
-.services-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-}
-
 
 
 .navbar-brand img {
@@ -148,6 +224,18 @@ section:hover {
   margin-right: 20px;
 }
 
+
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+/* END */
+
+
 .li .class .dropdown-menu {
   {{ $active }}
 }
+
+

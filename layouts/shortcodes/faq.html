@@ -1,0 +1,14 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">
+      <a data-toggle="collapse" data-parent="#faqAccordion" href="#{{ .Get "id" }}">
+        {{ .Get "question" }}
+      </a>
+      </h3>
+  </div>
+  <div id="{{ .Get "id" }}" class="panel-collapse collapse">
+    <div class="panel-body">
+      {{ .Inner }}
+    </div>
+  </div>
+</div>

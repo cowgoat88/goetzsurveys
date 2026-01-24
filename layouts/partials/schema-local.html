@@ -2,13 +2,15 @@
 {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
-  "name": "Goetz Surveys",
-  "url": "https://www.goetzsurveys.com",
-  "areaServed": "Santa Cruz, CA",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
   "serviceType": [
+    "Land Surveying",
     "Boundary Surveys",
     "Topographic Surveys",
     "Construction Staking"
-  ]
+  ],
+  "paymentAccepted": ["cash","credit card","cryptocurrency"]
 }
 </script>
+

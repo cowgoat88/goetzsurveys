@@ -1,12 +1,14 @@
 ---
-title: "Topographic Surveys"
+title: "Topographic Mapping"
 description: "Topographic survey services providing accurate elevation data and site features for planning, design, and construction."
+image: "/images/topo-wheelock-ortho.jpg"
 keywords: [ "land surveyor","land surveying",  "topographic survey","professional surveyor", "topo survey", "elevation survey", "site mapping"]
 ---
 
 ## Topographic Survey Services
 
-Topographic surveys capture elevations, contours, and visible features of a property. They are essential for civil engineering design, grading, drainage planning, and development projects.
+Essential for civil engineering design, grading, drainage planning and development projects, topographic surveys capture the contours, elevation and visible features of a given property. 
+![topographic surveying aerial](/images/topo-wheelock-ortho.jpg)
 
 ### Typical Features Included
 
@@ -23,4 +25,4 @@ Topographic surveys capture elevations, contours, and visible features of a prop
 - Grading and drainage design
 - Permit submittals
 - Land development and redevelopment
-![old map of santa cruz](SC-map.jpg)
+![old map of santa cruz county](/images/SC-map.jpg)
