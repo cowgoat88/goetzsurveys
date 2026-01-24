@@ -27,7 +27,3 @@ Goetz Surveys combines technical skill with practical field experience to provid
 
 With nearly a decade of surveying experience, Kyle has a proven record of delivering a high quality results for whatever job he is handling. From assisting with backyard remodels, to hiking up mountains to uncover 100 year old boundary monuments, to guiding construction crews building bridges, Kyle is passionate about all things surveying. 
 
-Kyle discovered the field of surveying after reading a family history that included a biography a great-uncle, Joseph Clark (pictured below). He was a civil engineer in New York state during the early 1900's. After going blind Joe continued to perform his duties by recalling the systems of storm and sewage lines throughout the city from memory. 
-
-![Joseph Clark Civil Engineer](/images/resemblance.jpg#center)
-
