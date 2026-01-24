@@ -14,7 +14,6 @@ title = "Kyle Goetz Land Surveys"
 canonifyURLs = true
 uglyURLs = false
 enableRobotsTXT = true
-defaultDescription = "Licensed land surveying services including boundary, coonstruction, and topographic surveys in Santa Cruz, CA."
 defaultImage = "/images/logo.png"
 logo = "/images/logo.png"
 logo_small = "/images/logo-small.png"
@@ -98,7 +97,7 @@ pluralizelisttitles = false
 
 
 [params]
-
+    defaultDescription = "Licensed land surveying services including boundary, coonstruction, and topographic surveys in Santa Cruz, CA."
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     enableGoogleMaps = true
@@ -154,7 +153,9 @@ pluralizelisttitles = false
 
     disabled_logo = false
     logo_text = "Goetz Surveys"
-
+    defaultImage = "/images/logo.png"
+    logo = "/images/logo.png"
+    logo_small = "/images/logo-small.png"
     address = """
     <p class="text-uppercase">
         <br>
@@ -198,3 +199,5 @@ pluralizelisttitles = false
     category = "categories"
     tag = "tags"
     author = "authors"
+
+defaultDescription = "Licensed land surveying services including boundary, coonstruction, and topographic surveys in Santa Cruz, CA."
