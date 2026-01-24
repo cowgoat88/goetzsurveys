@@ -3,6 +3,7 @@ title: "Topographic Mapping"
 description: "Topographic survey services providing accurate elevation data and site features for planning, design, and construction."
 image: "/images/topo-wheelock-ortho.jpg"
 keywords: [ "land surveyor","land surveying",  "topographic survey","professional surveyor", "topo survey", "elevation survey", "site mapping"]
+schemaType: "Service"
 ---
 
 ## Topographic Survey Services

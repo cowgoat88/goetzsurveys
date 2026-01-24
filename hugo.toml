@@ -4,12 +4,26 @@ url = "https://www.goetzsurveys.com"
 #url = "localhost"
 languageCode = "en-us"
 theme = "hugo-universal-theme"
-#SEO
+#
+# SEO
+# DEFAULTS
+# SCHEMA STUFF
+#
+
 title = "Kyle Goetz Land Surveys"
 canonifyURLs = true
 uglyURLs = false
 enableRobotsTXT = true
-defaultDescription = "Licensed land surveying services including boundary, control, and topographic surveys."
+defaultDescription = "Licensed land surveying services including boundary, coonstruction, and topographic surveys in Santa Cruz, CA."
+defaultImage = "/images/logo.png"
+logo = "/images/logo.png"
+logo_small = "/images/logo-small.png"
+contact_url = "/contact"
+social = [
+    "https://www.linkedin.com/in/kyle-goetz-93792713/",
+    ]
+
+# END SCHEMA STUFF
 
 hero_image = "/images/boundary-forest.jpg"
 hero_alt = "Surveying Boundary in the forest"
@@ -141,9 +155,6 @@ pluralizelisttitles = false
     disabled_logo = false
     logo_text = "Goetz Surveys"
 
-    logo = "images/logo.png"
-    logo_small = "images/logo-small.png"
-    contact_url = "/contact"
     address = """
     <p class="text-uppercase">
         <br>
@@ -173,7 +184,7 @@ pluralizelisttitles = false
     # For more information take a look at the README.
     enable = true
     auto_play = true
-    slide_speed = 6000
+    slide_speed = 5000 
     pagination_speed = 1000
 
 [params.features]

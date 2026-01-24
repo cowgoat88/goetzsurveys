@@ -2,8 +2,11 @@
 {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
+  "@id": "{{ .Site.BaseURL }}#business",
   "name": "{{ .Site.Title }}",
   "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.Params.logo | absURL }}",
+  "image": "{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.Params.defaultImage | absURL }}{{ end }}",
   "serviceType": [
     "Land Surveying",
     "Boundary Surveys",
@@ -11,6 +14,8 @@
     "Construction Staking"
   ],
   "paymentAccepted": ["cash","credit card","cryptocurrency"]
+  "address":"Santa Cruz, CA"
 }
+
 </script>
 

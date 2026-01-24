@@ -3,6 +3,7 @@ title: "FAQ"
 description: "Frequently asked questions for land surveyors"
 type: "page"
 keywords: ["boundary survey", "property line survey", "land surveyor", "boundary determination","land surveying",  "topographic survey", "construction staking", "professional surveyor", "construction layout", "site staking", "survey construction", "topo survey", "elevation survey", "site mapping"]
+schemaFAQ: true
 ---
 ![cutaway of a total station](/images/5600-cutaway.png#center)
 

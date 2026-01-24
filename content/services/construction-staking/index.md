@@ -2,6 +2,7 @@
 title: "Construction Staking"
 description: "Construction staking services to accurately transfer design plans to the field and support successful project execution."
 keywords: ["land surveying",  "topographic survey", "construction staking", "professional surveyor", "construction layout", "site staking", "survey construction"]
+schemaType: "Service"
 ---
 
 ## Construction Staking Services
