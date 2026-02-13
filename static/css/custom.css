@@ -1,5 +1,18 @@
 /* DEFAULT THEME COLORS */ 
 :root {
+  --primary-accent: #000000;
+  --navbar-border-top: #000000;
+  --button-border: #ffffff;
+  --link-focus: #4d5354;
+  --form-shadow: rgba(0, 0, 0, 0.6);
+  --pagination-bg: #31393b;
+  --link-hover-bg: #273538;
+  --navbar-focus: #d7d7d7;
+;
+
+}
+/*
+  :root {
   --primary-accent: #38a7bb;
   --navbar-border-top: #20616d;
   --button-border: #2a7d8c;
@@ -10,7 +23,7 @@
   --navbar-focus: #80cbd9;
 
 }
-
+*/
 /* BRUTALLLLIST */
 
 body {
@@ -78,17 +91,17 @@ section:hover {
 }
 
 .breadcrumb-text {
-  line-height: .75;
--webkit-text-fill-color: transparent;
+  line-height: 100%;
+/*  */
+
 -webkit-background-clip: text;
- -webkit-text-stroke-width: 4.5px;
+-webkit-text-stroke-width: 4.5px;
 -webkit-text-stroke-color: #111; 
 }
 #heading-breadcrumbs h1 {
   color: #333333;
   text-transform: uppercase;
-  font-size: 50px;
-  font-weight: 700;
+  font-size: 10vw;
   letter-spacing: 0.12em;
   max-width: 80vw;
   opacity: 1;
@@ -171,7 +184,7 @@ img[src$='#floatright']
 
 .cta-button {
   display: inline-block;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 600;
   font-weight: bold;
   text-decoration: none;
