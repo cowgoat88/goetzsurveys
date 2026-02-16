@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "About"
 description: "Goetz Surveys provides professional boundary, topographic, and construction staking services with precision and reliability."
 keywords: ["boundary survey", "property line survey", "land surveyor", "boundary determination","land surveying",  "topographic survey", "construction staking", "professional surveyor", "construction layout", "site staking", "survey construction", "topo survey", "elevation survey", "site mapping"]
 hero: "/images/bwlogo.png"

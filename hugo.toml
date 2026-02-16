@@ -82,7 +82,7 @@ pluralizelisttitles = false
 
 
 [[menu.main]]
-    name       = "About Us"
+    name       = "About"
     identifier = "menu.about"
     url        = "/about"
     weight     = 4
