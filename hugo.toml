@@ -195,9 +195,11 @@ pluralizelisttitles = false
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
 
-[taxonomies]
-    category = "categories"
-    tag = "tags"
-    author = "authors"
 
 defaultDescription = "Licensed land surveying services including boundary, coonstruction, and topographic surveys in Santa Cruz, CA."
+
+
+[sitemap]
+changeFreq = ""  # Default change frequency (empty string)
+filename = "sitemap.xml"  # Sitemap file name
+priority = 0.5  # Default priority (-1 means omitted from rendered sitemap)
