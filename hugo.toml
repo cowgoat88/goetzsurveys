@@ -22,6 +22,10 @@ social = [
     "https://www.linkedin.com/in/kyle-goetz-93792713/",
     ]
 
+
+
+disableKinds = ["taxonomy", "term"]
+
 # END SCHEMA STUFF
 
 hero_image = "/images/boundary-forest.jpg"
