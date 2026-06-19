@@ -2,7 +2,7 @@
 title: "About"
 description: "Kyle Goetz, PLS 10078, is a licensed land surveyor serving Santa Cruz County and Monterey County, CA - boundary surveys, topographic mapping, and construction staking."
 keywords: ["boundary survey", "property line survey", "land surveyor", "boundary determination","land surveying",  "topographic survey", "construction staking", "professional surveyor", "construction layout", "site staking", "survey construction", "topo survey", "elevation survey", "site mapping"]
-hero: "/images/bwlogo.png"
+hero: "/images/logo.png"
 ---
 
 ## About Kyle Goetz Land Surveying
