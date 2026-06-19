@@ -7,15 +7,45 @@
   "url": "{{ .Site.BaseURL }}",
   "logo": "{{ .Site.Params.logo | absURL }}",
   "image": "{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.Params.defaultImage | absURL }}{{ end }}",
+  "telephone": "+18312955523",
+  "email": "office@goetzsurveys.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Santa Cruz",
+    "addressRegion": "CA",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "{{ .Site.Params.latitude }}",
+    "longitude": "{{ .Site.Params.longitude }}"
+  },
+  "areaServed": [
+    { "@type": "County", "name": "Santa Cruz County", "addressRegion": "CA" },
+    { "@type": "County", "name": "Monterey County", "addressRegion": "CA" }
+  ],
   "serviceType": [
     "Land Surveying",
     "Boundary Surveys",
     "Topographic Surveys",
     "Construction Staking"
   ],
-  "paymentAccepted": ["cash","credit card","cryptocurrency"],
-  "address":"Santa Cruz, CA"
+  "founder": {
+    "@type": "Person",
+    "name": "Kyle Goetz",
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Professional Land Surveyor",
+      "identifier": "PLS 10078",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "California Board for Professional Engineers, Land Surveyors, and Geologists"
+      }
+    }
+  },
+  "paymentAccepted": ["cash", "credit card"],
+  "sameAs": ["https://www.linkedin.com/in/kyle-goetz-93792713/"]
 }
-
 </script>
+
 

@@ -1,13 +1,47 @@
-<div id="heading-breadcrumbs">
-   <section class="breadcrumb-section">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h1 class="breadcrumb-text">{{ .Title }}</h1>
-            </div>
-        </div>
-    </div>
-</section>
+{{ if not .IsHome }}
+{{ $crumbs := slice (dict "name" "Home" "url" .Site.BaseURL) }}
+{{ range .Ancestors.Reverse }}
+  {{ if not .IsHome }}
+    {{ $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) }}
+  {{ end }}
+{{ end }}
+{{ $crumbs = $crumbs | append (dict "name" .Title) }}
 
-    
+<div id="heading-breadcrumbs">
+  <section class="breadcrumb-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="breadcrumb-text">{{ .Title }}</h1>
+          <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+              {{ range $i, $crumb := $crumbs }}
+                {{ if eq $i (sub (len $crumbs) 1) }}
+                  <li class="active">{{ $crumb.name }}</li>
+                {{ else }}
+                  <li><a href="{{ $crumb.url }}">{{ $crumb.name }}</a></li>
+                {{ end }}
+              {{ end }}
+            </ol>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </section>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{{ range $i, $crumb := $crumbs }}{{ if $i }},{{ end }}
+    {
+      "@type": "ListItem",
+      "position": {{ add $i 1 }},
+      "name": "{{ $crumb.name }}"{{ with $crumb.url }},
+      "item": "{{ . }}"{{ end }}
+    }{{ end }}
+  ]
+}
+</script>
+{{ end }}

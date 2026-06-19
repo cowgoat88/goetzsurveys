@@ -10,7 +10,7 @@ theme = "hugo-universal-theme"
 # SCHEMA STUFF
 #
 
-title = "Kyle Goetz Land Surveys"
+title = "Kyle Goetz Land Surveying"
 canonifyURLs = true
 uglyURLs = false
 enableRobotsTXT = true
@@ -101,7 +101,7 @@ pluralizelisttitles = false
 
 
 [params]
-    defaultDescription = "Licensed land surveying services including boundary, coonstruction, and topographic surveys in Santa Cruz, CA."
+    defaultDescription = "Licensed land surveying services including boundary, construction, and topographic surveys in Santa Cruz, CA."
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     enableGoogleMaps = true
@@ -148,7 +148,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Providing quality land surveying services to the Santa Cruz area.</p>"
-    copyright = "Copyright (c) 2026, Goetz Surveys; all rights reserved."
+    copyright = "Copyright (c) 2026, Kyle Goetz Land Surveying; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -156,7 +156,7 @@ pluralizelisttitles = false
     dropdown_mouse_over = false
 
     disabled_logo = false
-    logo_text = "Goetz Surveys"
+    logo_text = "Kyle Goetz Land Surveying"
     defaultImage = "/images/logo.png"
     logo = "/images/logo.png"
     logo_small = "/images/logo-small.png"
@@ -164,7 +164,7 @@ pluralizelisttitles = false
     <p class="text-uppercase">
         <br>
         <h4>
-        KYLE GOETZ LAND SURVEYS
+        KYLE GOETZ LAND SURVEYING
         <br>
         (831) 295-5523
         <br>
@@ -200,7 +200,7 @@ pluralizelisttitles = false
     # For more information take a look at the README.
 
 
-defaultDescription = "Licensed land surveying services including boundary, coonstruction, and topographic surveys in Santa Cruz, CA."
+defaultDescription = "Licensed land surveying services including boundary, construction, and topographic surveys in Santa Cruz, CA."
 
 
 [sitemap]

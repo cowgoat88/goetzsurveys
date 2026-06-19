@@ -1,6 +1,6 @@
 ---
 title: "Boundary Surveys"
-description: "Professional boundary survey services to establish identify boundary lines, property lines, identify encroachments, and support real estate transactions."
+description: "Professional boundary survey services to establish and identify boundary lines, property lines, identify encroachments, and support real estate transactions."
 keywords: ["boundary survey", "property line survey", "land surveyor", "boundary determination","land surveying", "professional surveyor"]
 schemaType: "Service"
 ---

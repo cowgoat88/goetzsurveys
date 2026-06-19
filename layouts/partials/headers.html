@@ -1,9 +1,9 @@
 <meta charset="utf-8">
-<meta name="robots" content="all,follow">
+<meta name="robots" content="index,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {{ $title_plain := .Title | markdownify | plainify }}
-<title>{{ $title_plain }}</title>
+<title>{{ if .IsHome }}{{ .Site.Title }} | Land Surveyor Santa Cruz County, CA{{ else }}{{ $title_plain }} | Land Surveyor Santa Cruz County | {{ .Site.Title }}{{ end }}</title>
 <meta name="author" content="{{ .Param "author" }}" />
 {{ $keywords := .Site.Params.defaultKeywords | default (slice "" | first 0) }}
 {{ if isset .Params "tags" }}{{ range .Params.tags }}{{ $keywords = $keywords | append . }}{{ end }}{{ end }}
@@ -15,6 +15,7 @@
 <meta name="description" content="{{ $description_plain }}">
 <!-- SEO STUFF -->
 {{ partial "schema-local.html" . }}
+{{ if .Params.schemaFAQ }}{{ partial "schema-faq.html" . }}{{ end }}
 <link rel="canonical" href="{{ .Permalink }}">
 
 {{ hugo.Generator }}
@@ -37,7 +38,7 @@
 {{ end }}
 
 <!-- Custom stylesheet - for your changes -->
-<link href="{{ "css/custom.css" | relURL }}?{{ now.Unix }}" rel="stylesheet">
+<link href="{{ "css/custom.css" | relURL }}" rel="stylesheet">
 
 <!-- Responsivity for older IE -->
 {{ `
@@ -61,7 +62,7 @@
 <!-- Facebook OpenGraph tags -->
 {{ $is_blog := and (eq .Type "blog") (eq .Kind "page") }}
 {{ $has_image :=  isset .Params "banner" }}
-{{ $image := cond $has_image .Params.banner (.Site.Params.default_sharing_image | default "img/sharing-default.png") }}
+{{ $image := cond $has_image .Params.banner (.Site.Params.default_sharing_image | default "images/logo.png") }}
 {{ $is_valid_image := print "static/" $image | fileExists }}
 {{ if $is_valid_image }}
 {{ $image_ext := path.Ext $image }}
