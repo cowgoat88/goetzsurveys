@@ -10,7 +10,7 @@ theme = "hugo-universal-theme"
 # SCHEMA STUFF
 #
 
-title = "Kyle Goetz Land Surveying"
+title = "Kyle Goetz Land Surveys"
 canonifyURLs = true
 uglyURLs = false
 enableRobotsTXT = true
@@ -148,7 +148,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Providing quality land surveying services to the Santa Cruz area.</p>"
-    copyright = "Copyright (c) 2026, Kyle Goetz Land Surveying; all rights reserved."
+    copyright = "Copyright (c) 2026, Kyle Goetz Land Surveys; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -156,7 +156,7 @@ pluralizelisttitles = false
     dropdown_mouse_over = false
 
     disabled_logo = false
-    logo_text = "Kyle Goetz Land Surveying"
+    logo_text = "Kyle Goetz Land Surveys"
     defaultImage = "/images/logo.png"
     logo = "/images/logo.png"
     logo_small = "/images/logo-small.png"
@@ -164,7 +164,7 @@ pluralizelisttitles = false
     <p class="text-uppercase">
         <br>
         <h4>
-        KYLE GOETZ LAND SURVEYING
+        KYLE GOETZ LAND SURVEYS
         <br>
         (831) 295-5523
         <br>

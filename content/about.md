@@ -5,7 +5,7 @@ keywords: ["boundary survey", "property line survey", "land surveyor", "boundary
 hero: "/images/logo.png"
 ---
 
-## About Kyle Goetz Land Surveying
+## About Kyle Goetz Land Surveys
 
 K.G.L.S. is a sole-proprietor land surveying practice based in Santa Cruz, CA. Kyle Goetz, PLS 10078, handles boundary determinations, topographic mapping, and construction staking for residential and commercial projects throughout Santa Cruz and Monterey counties.
 
@@ -13,7 +13,7 @@ K.G.L.S. is a sole-proprietor land surveying practice based in Santa Cruz, CA. K
 
 Every project starts with office research - historical records, recorded documents, adjacent surveys - before any field work begins. Measurements are collected, verified, and processed into deliverables that are legally defensible and consistent with surrounding parcels.
 
-### Why Kyle Goetz Land Surveying
+### Why Kyle Goetz Land Surveys
 
 - **Licensed:** All work is performed by Kyle Goetz, PLS 10078, a California-licensed Professional Land Surveyor.
 - **Local knowledge:** Years of work throughout Santa Cruz County means familiarity with the local record base and common boundary issues in the area.
